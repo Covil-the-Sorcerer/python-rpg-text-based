@@ -1,0 +1,1 @@
+# Cada inimigo terá status diferentes de acordo com o nível e raça.

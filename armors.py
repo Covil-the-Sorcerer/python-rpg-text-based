@@ -1,0 +1,1 @@
+# Cada arma terá status diferentes dependendo da raridade.
